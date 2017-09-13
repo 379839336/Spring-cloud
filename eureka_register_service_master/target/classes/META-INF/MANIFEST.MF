@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka_register_service_master
+Implementation-Version: 1.0.0
+Built-By: huan1234
+Implementation-Vendor-Id: com.demo.springcloud
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/eureka_regis
+ ter_service_master/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
